@@ -1,4 +1,5 @@
 # Lipo_Solar_manager_V2
+# (On-going, waiting for PCB to be manufactured)
 ## Goal:
 A board that supports lipo charging with USB or solar, produces 3.3V or 4.2V power out.
 To rectify issues from version one.
