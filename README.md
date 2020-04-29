@@ -13,7 +13,7 @@ To rectify issues from version one.
 ### PCB:
 ![](Images/PCB.gif) 
 ## Product and testing:
-Here is the actual PCB.
+Here is the actual PCB.<br/>
 Charging:
 ![](Images/Charge.jpg) 
 Charing Completed:
@@ -21,12 +21,12 @@ Charing Completed:
 After ultilizing test points and manual probing with multimeter, results are correct.
 1. Lipo output = 4.2V (checked,OK)
 2. 3.3V regulted output (checked,OK)
-3. Charing circuit working (checked,OK)
+3. Charing circuit working, with usb/solar in (checked,OK)
 4. 5V in (checked,OK)
 3. Stable output (checked,OK)
 ## Conclusion
-This project is a success everything works as intended.
-This design is able to charge a lipo battery using 5V USB in or solar charging, and produce a stable 3.3V output.
+This project is a success everything works as intended.<br/>
+This design is able to charge a lipo battery using 5V USB in or solar charging, and produce a stable 3.3V output.<br/>
 Now it can be used for powering up low power projects. (Tested with ESP12 chips, works well).
 
 
