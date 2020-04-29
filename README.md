@@ -14,5 +14,10 @@ To rectify issues from version one.
 ### PCB:
 ![](Images/PCB.gif) 
 ## Product and testing:
+Here is the actual PCB.
+Charging:
+![](Images/Charge.jpg) 
+Charing Completed:
+![](Images/Done.jpg) 
 
 
