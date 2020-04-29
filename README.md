@@ -16,8 +16,8 @@ To rectify issues from version one.
 ## Product and testing:
 Here is the actual PCB.
 Charging:
-![](Images/Charge.JPG) 
+![](Images/Charge.jpg) 
 Charing Completed:
-![](Images/DONE.JPG) 
+![](Images/Done.jpg) 
 
 
